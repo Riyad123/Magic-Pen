@@ -1,0 +1,75 @@
+
+#box {
+    width:960px;
+    margin: 0 auto;
+    height:2000px;
+    overflow:hidden;
+
+    
+}
+.magicPen{
+    position:fixed;
+    font-size:80px;
+    margin-top:400px;
+    margin-left:600px
+}
+.magicBox{
+    position:fixed;
+    font-size:80px;
+    margin-top:400px;
+    margin-left:60px
+}
+
+.m{visibility:hidden}
+.a{visibility:hidden}
+.g{visibility:hidden}
+.i{visibility:hidden}
+.c{visibility:hidden}
+.p{visibility:hidden}
+.e{visibility:hidden}
+.n{visibility:hidden}
+
+.fixed{
+    height:900px;
+    overflow:hidden;
+   position:fixed;
+    background:rgba(119, 18, 18, 0);
+    width:400px;
+    margin-left:300px;
+}
+.penOne {
+    width:100%;
+    overflow:hidden;
+    height:395px;
+    position:relative;
+}
+.One{
+    overflow:hidden;
+    position:relative;
+    top:270px
+}
+.pentwo {
+    width:100%;
+    overflow:hidden;
+    height:242px;
+    position:relative
+}
+.two{
+    overflow:hidden;
+    position:relative;
+    top:-390px
+}
+.penthree {
+    width:100%;
+    overflow:hidden;
+    height:285px;
+    position:relative;
+    top:-203px
+}
+
+.three{
+    overflow:hidden;
+    position:relative;
+    top:-633px;
+    left:1px
+}
